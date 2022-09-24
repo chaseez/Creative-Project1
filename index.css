@@ -10,6 +10,7 @@ p
 {
     top:auto;
     bottom:auto;
+    text-align:center;
 }
 
 .page    
@@ -41,12 +42,3 @@ img
     width:300px;
 }
 
-.picture-box
-{
-    
-}
-
-.button-box
-{
-    
-}
