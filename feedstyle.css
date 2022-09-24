@@ -1,7 +1,9 @@
 
 
 
-
+body {
+  background-color: #EDE3E9;
+}
 
 .card-specific {
     width: 25rem;
@@ -13,7 +15,8 @@
 .page {
     
     background: #EDE3E9;
-    padding: 0 0 5rem 0;
+    height: 100%;
+    
  
 }
 
