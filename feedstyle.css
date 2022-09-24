@@ -1,0 +1,28 @@
+
+
+
+
+
+.card-specific {
+    width: 25rem;
+    margin: 1.5rem 0;
+    display: flex;
+}
+
+
+.page {
+    
+    background: #EDE3E9;
+    padding: 0 0 5rem 0;
+ 
+}
+
+.debug{
+    background: red;
+}
+
+.text{
+    background: #EDE3E9;
+    display:box;
+    margin: 0 0;
+}
